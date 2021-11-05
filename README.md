@@ -8,7 +8,7 @@ OpenCV4のインストールとその概要を説明します。
 
 [3.USBカメラの設定](#3)
 
-[<R2CVに戻る>](https://github.com/nishibra/r2cv)
+[<R2CVに戻る>](https://github.com/nishibra/r2cv-1)
 
 <a id="1"></a>
 ## 1. Open CV4について
