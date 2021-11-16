@@ -84,11 +84,11 @@ def imshow_pro(edge,img):
   cv2.imshow('edge',img2)
 #
 def hcon_img(img1,img2):
-  img2=cv2.hconcat([edge2,img])
+  img=cv2.hconcat([img1,img2])
   return(img)
 #
 def vcon_img(img1,img2):
-  img2=cv2.vconcat([edge2,img])
+  img=cv2.vconcat([img1,img2])
   return(img)
 #
 def graytorgb(img):
