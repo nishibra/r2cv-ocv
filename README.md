@@ -42,7 +42,7 @@ $ ./install-opencv.sh
 #### opencv-pythonのインストール
 ```
 $ sudo apt install python3-pip
-$ sudo pip install opencv-python
+$ sudo pip3 install opencv-python
 ```
 #### OpenCVの動作確認
 USBカメラの接続
